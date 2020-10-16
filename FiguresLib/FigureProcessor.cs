@@ -110,7 +110,7 @@ namespace FiguresLib
                 GreatestSquareForType(allFigures, "parallelepiped"),
                 GreatestSquareForType(allFigures, "quadrate"),
                 GreatestSquareForType(allFigures, "trapezoid"),
-                GreatestSquareForType(allFigures, "rhomdus"),
+                GreatestSquareForType(allFigures, "rhombus"),
                 GreatestSquareForType(allFigures, "rectangl")
             };
             double max = 0;
