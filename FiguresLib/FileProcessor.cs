@@ -24,6 +24,15 @@ namespace FiguresLib
                     if (elements.Length % 2 != 0)
                     {
                         Console.WriteLine("Нечетное кол-во координат в строке.");
+                        Console.Write("Проверьте строку с координатами: ");
+                        foreach (string s in elements)
+                        {
+                            if (s != "")
+                            {
+                                Console.Write("{0} ", s);
+                            }
+                        }
+                        Console.WriteLine();
                     }
                     else
                     {

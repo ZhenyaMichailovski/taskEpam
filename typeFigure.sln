@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresLib", "FiguresLib\Fi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2AF3E60E-1FD5-4843-B3A3-9A6F6A0D2AA5}"
 	ProjectSection(SolutionItems) = preProject
-		typeFigure\bin\Debug\text.txt = typeFigure\bin\Debug\text.txt
+		typeFigure\text.txt = typeFigure\text.txt
 	EndProjectSection
 EndProject
 Global

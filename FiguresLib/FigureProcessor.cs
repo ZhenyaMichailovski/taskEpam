@@ -134,7 +134,7 @@ namespace FiguresLib
             else if (tmpI == 4)
                 return "trapezoid";
             else if (tmpI == 5)
-                return "rhomdus";
+                return "rhombus";
             else if (tmpI == 6)
                 return "rectangl";
             else
@@ -188,7 +188,7 @@ namespace FiguresLib
                 MiddlePerimeterForType(allFigures, "parallelepiped"),
                 MiddlePerimeterForType(allFigures, "quadrate"),
                 MiddlePerimeterForType(allFigures, "trapezoid"),
-                MiddlePerimeterForType(allFigures, "rhomdus"),
+                MiddlePerimeterForType(allFigures, "rhombus"),
                 MiddlePerimeterForType(allFigures, "rectangl")
             };
             double max = 0;
@@ -212,7 +212,7 @@ namespace FiguresLib
             else if (tmpI == 4)
                 return "trapezoid";
             else if (tmpI == 5)
-                return "rhomdus";
+                return "rhombus";
             else if (tmpI == 6)
                 return "rectangl";
             else
